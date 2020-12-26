@@ -2,9 +2,9 @@
 
 #### Const
 
-#### 'let': block scope
+#### `let`: block scope
 
-#### 'var': bunction scope
+#### `var`: bunction scope
 
 # Type:
 
